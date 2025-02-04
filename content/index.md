@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Dokumentacja Projektu
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+1. [[Definiowanie projektu]]
+2. 
