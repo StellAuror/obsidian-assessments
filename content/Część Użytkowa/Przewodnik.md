@@ -30,8 +30,12 @@ Poniższe miary składają się na poprzedni element pulpitu.
 ### Grafiki pomocnicze panelu bocznego
 W razie zainteresowania daną miarą, możliwe jest pozyskanie dodatkowych informacji na temat jej składowych poprzez kliknięcie danego przycisku. O takiej możliwości interakcji świadczy koralowa kreska pojawiająca się po lewej stronie wartości wskaźnika.  
 ![[Pasted image 20250206044112.png]]
+
 W celu ukrycia panelu bocznego należy wybrać przycisk z ikoną 'cofnij' w jego górnej lewej części.
 ![[Pasted image 20250206044518.png]]
+
+Inną funkcjonalnością wspierającą bardziej szczegółowe przeglądanie danych, jest opcja wyświetlenia dodatkowych informacji (nazwa hotelu, wielkość, ulica, komentarze) po najechaniu na punkt na mapie lub użyciu mechanizmu `drillthrough`:
+![[Pasted image 20250206095546.png]]
 ### Wybór lokalizacji
 Podstawową funkcjonalnością pulpitu jest możliwość definiowania lokalizacji, dla której przeliczane są wszystkie wskaźniki oraz promienia bliskiej konkurencji. Jako bliską konkurencję określa się wszystkie hotele, które znajdują się w analizowanym promieniu. Promień ten można zdefiniować w prawym dolnym rogu ekranu, dopuszczalne wartości są w zakresie 500m-5km. Z kolei pionowy suwak po prawej stronie oraz poziomy suwak w górnej części ekranu, pozwalają na dynamiczny wybór lokalizacji inwestycji. Po zmianie któregoś z tych parametrów, wszystkie wskaźniki zostaną na nowo przeliczone.
 ![[Pasted image 20250206045015.png]]
